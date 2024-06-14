@@ -16,7 +16,7 @@ http://bdta.pro/3134767531/5CqmEyGNTt/72597.m3u8
 #EXTINF:-1 tvg-id="CANAIS NOTICIAS" tvg-logo="https://th.bing.com/th/id/OIP.0tUhuLWajeMaRK8iRMY58AHaHa?w=188&h=187&c=7&r=0&o=5&pid=1.7",CNN BRASIL
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-id="CANAIS NOTICIAS" tvg-logo="https://th.bing.com/th/id/OIP.AhGcSxng2cTG5v2MIG1YnAHaDP?w=310&h=153&c=7&r=0&o=5&pid=1.7",BAND NEWS
-https://evpp.mm.uol.com.br/geob_band/bandnewstv/playlist.m3u8
+http://bdta.pro/3134767531/5CqmEyGNTt/71791.m3u8
 #EXTINF:-1 tvg-id="CANAIS NOTICIAS" tvg-logo="https://th.bing.com/th/id/OIP.nicUXsmN0y5IiPGyEYlTRwHaDn?w=299&h=170&c=7&r=0&o=5&pid=1.7",RECORD NEWS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 #EXTINF:-1 tvg-id="CANAIS NOTICIAS" tvg-logo="https://th.bing.com/th/id/OIP.BLcF7O7BniUciZj62z6XqAHaEK?w=281&h=180&c=7&r=0&o=5&pid=1.7",GLOBO NEWS
@@ -54,13 +54,13 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?IMDSFULL
 #EXTINF:-1 tvg-id="CANAIS INFANTIL" tvg-logo="https://th.bing.com/th/id/OIP.BOOyNRIZhLYpdillj3IDdwHaD5?w=304&h=180&c=7&r=0&o=5&pid=1.7", Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-id="CANAIS INFANTIL" tvg-logo="https://th.bing.com/th/id/OIP.iqZ--dq8654M5C5ndKDsKQHaHa?w=158&h=180&c=7&r=0&o=5&pid=1.7",DISCOVERY KIDS
-https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist.m3u8
+http://bdta.pro/3134767531/5CqmEyGNTt/71873.m3u8
 #EXTINF:-1 tvg-id="CANAIS INFANTIL" tvg-logo="https://th.bing.com/th/id/OIP.EtDrJpX_3EXT1ecw0fTMZAHaF0?w=211&h=180&c=7&r=0&o=5&pid=1.7",NICKELODEON
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/284/284-3-main.m3u8
 #EXTINF:-1 tvg-id="CANAIS INFANTIL" tvg-logo="https://th.bing.com/th/id/OIP.brjBiSDgLjQ4TxSBxCMJMQHaB8?w=319&h=92&c=7&r=0&o=5&pid=1.7",Nick Jr
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f12151794c1800007a8ae63&deviceLat=-23.5475&deviceLon=-46.6361&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false&sid=730&terminate=false&userId=
 #EXTINF:-1 tvg-id="CANAIS INFANTIL" tvg-logo="https://th.bing.com/th/id/OIP.brjBiSDgLjQ4TxSBxCMJMQHaB8?w=319&h=92&c=7&r=0&o=5&pid=1.7",Nick Jr
-https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/285/285-3-main.m3u8
+http://bdta.pro/3134767531/5CqmEyGNTt/72203.m3u8
 #EXTINF:-1 tvg-id="CANAIS INFANTIL" tvg-logo="https://th.bing.com/th?id=OIP.PQx8r5qx4H7ncO83ihKZZQHaFj&w=288&h=216&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",TOONCAST
 https://mycdn.delivery/tooncast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CANAIS INFANTIL" tvg-logo="https://th.bing.com/th?id=OIP.7yTBlYamCm8FET2V5Q3UlAAAAA&w=212&h=178&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",ZOOMOO KIDS
@@ -84,30 +84,34 @@ https://mycdn.delivery/telecinepipoca/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://th.bing.com/th/id/OIP.i66sr2uoI6llgW-6VnAtfAAAAA?w=155&h=159&c=7&r=0&o=5&pid=1.7",Telecine Touch
 https://mycdn.delivery/telecinetouch/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://th.bing.com/th/id/OIP.MONue3QOg_JVJyzK9cHZ-wHaD0?w=314&h=179&c=7&r=0&o=5&pid=1.7",Megapix
-http://bdta.pro/3134767531/5CqmEyGNTt/72169.m3u8
+http://bdta.pro/3134767531/5CqmEyGNTt/72120.m3u8
 #EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png",HBO 2
-http://170.254.18.106/HBO2/index.m3u8
+http://bdta.pro/3134767531/5CqmEyGNTt/72112.m3u8
 #EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png",HBO Family 
 http://170.254.18.106/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://th.bing.com/th?id=OIP._1l2phSOcgwBzEm-OuGo4AHaHS&w=251&h=248&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",HBO Mundi
+http://bdta.pro/3134767531/5CqmEyGNTt/72123.m3u8
 #EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png",HBO Plus
-http://170.254.18.106/HBO_PLUS/index.m3u8
+http://bdta.pro/3134767531/5CqmEyGNTt/72127.m3u8
+#EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://www.bing.com/th?id=OIP.m57UtXpeWJQpgcSiMRm2kAHaE3&w=150&h=100&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",HBO POP
+http://bdta.pro/3134767531/5CqmEyGNTt/72131.m3u8
 #EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/512px-HBO_Signature.svg.png",HBO Signature 
 http://170.254.18.106/HBO_SIG/index.m3u8
 #EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png",HBO Xtreme
-http://170.254.18.106/HBO_XTREME/index.m3u8
+http://bdta.pro/3134767531/5CqmEyGNTt/72140.m3u8
 #EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://i.imgur.com/cZWoJWD.png",Cinemax 
-http://170.254.18.106/CINEMAX/index.m3u8
-#EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://i.imgur.com/lf5oME7.png",Pluto TV Cine Drama 
+http://bdta.pro/3134767531/5CqmEyGNTt/71835.m3u8
+#EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://i.imgur.com/lf5oME7.png",Cine Drama 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://i.imgur.com/r9UhBfV.png",Pluto TV Cine Família 
+#EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://i.imgur.com/r9UhBfV.png",Cine Família 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://i.imgur.com/HkCV9cQ.png",Pluto TV Filmes Ação 
+#EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://i.imgur.com/HkCV9cQ.png",Filmes Ação 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://i.imgur.com/45V9MKk.png",Pluto TV Filmes Suspense 
+#EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://i.imgur.com/45V9MKk.png",Filmes Suspense 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://i.imgur.com/JlQq0YJ.png",Pluto TV Investigação 
+#EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://i.imgur.com/JlQq0YJ.png",Filmes Investigação 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://i.imgur.com/gwxX1Y3.png",Pluto TV Misterios 
+#EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://i.imgur.com/gwxX1Y3.png",Filmes Misteriosos 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://th.bing.com/th?id=OIP.OaFbnBqtiyoMicWMokmmDQHaHW&w=250&h=249&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",TNT FILMES 
 https://mycdn.delivery/tnt/tracks-v1a1/mono.m3u8
@@ -124,7 +128,7 @@ https://mycdn.delivery/warnerchannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FILMES E SERIES" tvg-logo="https://th.bing.com/th/id/OIP.xtWqBPIELVfjAmc2ndRyAAHaEx?w=276&h=180&c=7&r=0&o=5&pid=1.7",A&E
 http://bdta.pro/3134767531/5CqmEyGNTt/71762.m3u8
 #EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.YNg41Xv9cx6u3LfoCEpD2wHaER&w=328&h=189&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",BANDSPORTS
-https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290-3-main.m3u8
+http://bdta.pro/3134767531/5CqmEyGNTt/71803.m3u8
 #EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.tvR2Q1ip4BXnLe-VTV0ASwHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",COMBATE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 #EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.tvR2Q1ip4BXnLe-VTV0ASwHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",COMBATE
@@ -155,10 +159,6 @@ https://mycdn.delivery/gnt/tracks-v1a1/mono.m3u8
 http://bdta.pro/3134767531/5CqmEyGNTt/72182.m3u8
 #EXTINF:-1 tvg-id="CANAIS VARIEDADES" tvg-logo="https://th.bing.com/th/id/OIP.h4asvHzv9zR9VSHSLmAyLwHaHa?w=171&h=180&c=7&r=0&o=5&pid=1.7",MTV Brazil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="CANAIS VARIEDADES" tvg-logo="https://th.bing.com/th/id/OIP.h4asvHzv9zR9VSHSLmAyLwHaHa?w=171&h=180&c=7&r=0&o=5&pid=1.7",MTV Brazil
-https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/287/287-3-main.m3u8
-#EXTINF:-1 tvg-id="CANAIS VARIEDADES" tvg-logo="https://th.bing.com/th/id/OIP._umHQegs3nBY5MY17BcerQHaHa?w=176&h=180&c=7&r=0&o=5&pid=1.7",Play TV
-https://playtv.mediastreaming.com.br/play/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CANAIS VARIEDADES" tvg-logo="https://th.bing.com/th/id/OIP.TDQg2eD_QTHzfNyFcrT8KgAAAA?w=164&h=180&c=7&r=0&o=5&pid=1.7",ARTE 1
 https://mycdn.delivery/arte1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CANAIS VARIEDADES" tvg-logo="https://th.bing.com/th/id/OIP.wtIldmJHLx_X1fVjJmwYrQHaFj?w=236&h=180&c=7&r=0&o=5&pid=1.7",CANAL CURTA
@@ -181,11 +181,9 @@ https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 https://mycdn.delivery/primeboxbrazil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CANAIS RELIGIOSOS" tvg-logo="https://th.bing.com/th/id/OIP.8HXhCPwVH_aVaAejjITntwAAAA?w=175&h=176&c=7&r=0&o=5&pid=1.7",Rede Gospel
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8?IMDSFULL
-#EXTINF:-1 tvg-id="CANAIS RELIGIOSOS" tvg-logo="https://th.bing.com/th/id/OIP.8HXhCPwVH_aVaAejjITntwAAAA?w=175&h=176&c=7&r=0&o=5&pid=1.7",Rede Gospel
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8?IMDSFULL
 #EXTINF:-1 tvg-id="CANAIS RELIGIOSOS" tvg-logo="https://th.bing.com/th?id=OIP.xlevGI9LyuLhpatkCeq4XAAAAA&w=249&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",Rede Super
 https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w2093587700.m3u8
-#EXTINF:-1 tvg-id="CANAIS RELIGIOSOS" tvg-logo="https://th.bing.com/th/id/OIP.4Oo8lxId82WiXWNRSqn_TAAAAA?w=141&h=150&c=7&r=0&o=5&pid=1.7",Gospel Movie TV
+#EXTINF:-1 tvg-id="CANAIS RELIGIOSOS" tvg-logo="https://th.bing.com/th/id/OIP.4Oo8lxId82WiXWNRSqn_TAAAAA?w=141&h=150&c=7&r=0&o=5&pid=1.7",Gospel Movie 
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 tvg-id="CANAIS RELIGIOSOS" tvg-logo="https://th.bing.com/th/id/OIP.YKAlvZzY6-oAOdtk2PwXygHaH0?w=151&h=180&c=7&r=0&o=5&pid=1.7",Gospel Music
 https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
@@ -196,7 +194,6 @@ https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
 
 
  
-
 
 
 
