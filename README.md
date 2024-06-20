@@ -4,7 +4,7 @@ http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 #EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://th.bing.com/th?id=OIP.KdHO1E5jM9-H39HJydbyjgHaHZ&w=250&h=249&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://th.bing.com/th/id/OIP.OdwtTYJOW2ljKZ6maVSkwQHaGe?pid=ImgDet&w=203&h=177&c=7",REDE GLOBO
-http://hls1.sua.tv/live/globosphd/s.m3u8
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_2000/index.m3u8
 #EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://th.bing.com/th?id=OIP.cYbQUSiAcpDOnANIkTOrvQHaHG&w=255&h=244&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",RECORDTV
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://th.bing.com/th?id=OIP.kGiM4eq9apHFFnhAgdmkFwHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",TVGAZETA
@@ -141,20 +141,7 @@ http://bdta.pro/3134767531/5CqmEyGNTt/131176.m3u8
 http://bdta.pro/3134767531/5CqmEyGNTt/131113.m3u8
 #EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.t9olwooambndMvDbrBSAGAHaBL&w=376&h=59&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",PREMIER CLUBES
 http://bdta.pro/3134767531/5CqmEyGNTt/72265.m3u8
-#EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.UziO1RItluD9oyabObxVpAHaBL&w=376&h=59&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",PREMIER CLUBES 02
-https://sportscdn.net/live/premiere2_720p.m3u8
-#EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.UziO1RItluD9oyabObxVpAHaBL&w=376&h=59&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",PREMIER CLUBES 03
-https://sportscdn.net/live/premiere3_720p.m3u8
-#EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.UziO1RItluD9oyabObxVpAHaBL&w=376&h=59&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",PREMIER CLUBES 04
-https://sportscdn.net/live/premiere4_720p.m3u8
-#EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.UziO1RItluD9oyabObxVpAHaBL&w=376&h=59&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",PREMIER CLUBES 05
-https://sportscdn.net/live/premiere5_720p.m3u8
-#EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.UziO1RItluD9oyabObxVpAHaBL&w=376&h=59&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",PREMIER CLUBES 06
-https://sportscdn.net/live/premiere6_720p.m3u8
-#EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.UziO1RItluD9oyabObxVpAHaBL&w=376&h=59&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",PREMIER CLUBES 07
-https://sportscdn.net/live/premiere7_720p.m3u8
-#EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.UziO1RItluD9oyabObxVpAHaBL&w=376&h=59&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",PREMIER CLUBES 08
-https://sportscdn.net/live/premiere8_720p.m3u8
+
 #EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.lhxXJ0yy1yuvBNCkFueW3gAAAA&w=150&h=150&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",WOOHOO
 https://mycdn.delivery/woohoo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CANAIS VARIEDADES" tvg-logo="https://th.bing.com/th/id/OIP.3evx_yK-gcqADsaGeRCOFQHaEz?w=276&h=180&c=7&r=0&o=5&pid=1.7",TLC
