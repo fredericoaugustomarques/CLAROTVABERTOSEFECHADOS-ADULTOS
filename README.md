@@ -101,8 +101,6 @@ http://170.254.18.106/HBO_SIG/index.m3u8
 http://bdta.pro/3134767531/5CqmEyGNTt/72140.m3u8
 #EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://i.imgur.com/cZWoJWD.png",Cinemax 
 http://bdta.pro/3134767531/5CqmEyGNTt/71835.m3u8
-#EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://i.imgur.com/gwxX1Y3.png",Filmes Misteriosos 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://th.bing.com/th?id=OIP.OaFbnBqtiyoMicWMokmmDQHaHW&w=250&h=249&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",TNT FILMES 
 https://mycdn.delivery/tnt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://th.bing.com/th?id=OIP.OaFbnBqtiyoMicWMokmmDQHaHW&w=250&h=249&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",TNT SÉRIES
